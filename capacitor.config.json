@@ -1,0 +1,11 @@
+{
+  "appId": "cl.losavellanos.misvencimientos",
+  "appName": "Mis Vencimientos",
+  "webDir": "www",
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_icon_config_sample",
+      "iconColor": "#0E5E5A"
+    }
+  }
+}
